@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Entity\bin\Debug\Entity.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Entity\bin\Debug\Entity.pdb
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Entity\obj\Debug\Entity.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Entity\obj\Debug\Entity.pdb

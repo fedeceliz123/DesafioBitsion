@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\bin\Debug\Business.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\bin\Debug\Business.pdb
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\bin\Debug\Data.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\bin\Debug\Entity.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\bin\Debug\Data.pdb
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\bin\Debug\Entity.pdb
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\obj\Debug\Business.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Business\obj\Debug\Business.pdb

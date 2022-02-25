@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\bin\Debug\Data.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\bin\Debug\Data.pdb
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\bin\Debug\Entity.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\bin\Debug\Entity.pdb
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\obj\Debug\Data.dll
+C:\Users\USUARIO\Desktop\Bitsion\FicticiaSA\Data\obj\Debug\Data.pdb
