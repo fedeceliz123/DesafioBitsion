@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1fbc8572-3164-47e2-9fc5-d549f78e23ea": {
+      "ProjectGuid": "1fbc8572-3164-47e2-9fc5-d549f78e23ea",
+      "DisplayName": "FicticiaSA",
+      "ColorIndex": 0
+    },
+    "4493d7c3-bb10-4fde-8c83-2998a1fff2ee": {
+      "ProjectGuid": "4493d7c3-bb10-4fde-8c83-2998a1fff2ee",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

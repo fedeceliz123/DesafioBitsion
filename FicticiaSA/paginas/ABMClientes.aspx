@@ -86,13 +86,13 @@
                   <div class="row pt-3" style="width:100%">
                     
                       <div class="col-1">
-                          <asp:Button Text="Agregar" runat="server" ID="btnAgregar" CssClass="btn-primary" style="border-radius:5px;" OnClick="btnAgregar_Click" />
+                          <asp:Button Text="Agregar" runat="server" ID="btnAgregar" CssClass="btn btn-primary"  OnClick="btnAgregar_Click" />
                       </div>
                       <div class="col-1">
-                          <asp:Button Text="Modificar" runat="server" ID="btnModificar" CssClass=" btn-success" style="border-radius:5px;" Enabled="false" OnClick="btnModificar_Click" />
+                          <asp:Button Text="Modificar" runat="server" ID="btnModificar" CssClass="btn btn-success"  Enabled="false" OnClick="btnModificar_Click" />
                       </div>
                       <div class="col-1">
-                          <asp:Button Text="Cancelar" runat="server" ID="btnCancelar" CssClass=" btn-secondary" style="border-radius:5px;" Visible="false"  OnClick="btnCancelar_Click" />
+                          <asp:Button Text="Cancelar" runat="server" ID="btnCancelar" CssClass="btn btn-secondary"  Visible="false"  OnClick="btnCancelar_Click" />
                       </div>
                       
                   </div>

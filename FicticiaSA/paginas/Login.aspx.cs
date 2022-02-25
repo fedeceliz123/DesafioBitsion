@@ -13,6 +13,14 @@ namespace FicticiaSA.paginas
         Business.Business negocio = new Business.Business();
         protected void Page_Load(object sender, EventArgs e)
         {
+
+            if(!IsPostBack)
+            {
+                ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Usuario: ficticia . Contraseña: 123456');", true);
+
+                txtUsuario.Text = "ficticia";
+                txtContraseña.Text = "123456";
+            }
             
         }
 
